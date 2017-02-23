@@ -3,4 +3,4 @@ alphabet ABCDEF
 n 6
 maxIteration 1000
 mutateRate 0.03
-populationSize 1000
+populationSize 100
